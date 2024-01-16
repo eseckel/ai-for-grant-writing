@@ -1,9 +1,19 @@
-# AI for Writing Grant Applications
+# AI for Grant Writing
 A curated list of resources for using AI to develop more competitive grant applications.
+
+## Table of Contents
+- [AI For Grant Writing](#ai-for-grant-writing)
+    - [Useful Services](#useful-services)
+    - [Prompt Resources](#prompt-resources)
+        - [Prompt Collections](#prompt-collections)
+        - [Prompt Engineering](#prompt-engineering)
+        - [Quick Prompts](#quick-prompts)
+    - [Grant Writing-Specific Resources](#grant-writing-specific-resources)
+    - [Contributing](#contributing)
 
 ---
 
-## Recommended Services
+## Useful Services
 
 || Checks Spelling and Grammar | Text Generation | Translation | Mock Review | Image Generation | Free Tier |
 |---	|---	|---	|---	|---	|---	|---	|
