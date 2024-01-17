@@ -1,5 +1,12 @@
 # How to build/update the website
 
+## Notes
+- You should not have to use this on a regular basis. The repository is setup to
+run the validation for each pull request and the deployment whenever you accept
+a pull request or push a commit directly to the main branch. You should use this
+to test changes locally.
+- Your repository should be setup to serve pages from the gh-pages branch.
+
 ## Requirements
 - Python
 - Git
