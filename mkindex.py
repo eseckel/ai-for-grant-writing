@@ -5,6 +5,7 @@ import argparse
 import os
 import pathlib
 import re
+import shutil
 import sys
 import urllib.request
 
@@ -122,4 +123,7 @@ if __name__ == "__main__":
         # Output index.md file
         for ln in filter_gh_toc(lines):
             print(ln, file=handle, end="")
+
+    # Copy banner.png
+    shutil.copyfile("banner.png", INDEX_MD_PATH.parent / "banner.png")
 
