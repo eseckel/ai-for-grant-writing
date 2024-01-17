@@ -1,0 +1,5 @@
+/* Hide redundant titles */
+.md-typeset h1,
+label.md-nav__title {
+    display: none;
+}
