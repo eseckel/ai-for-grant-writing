@@ -2,6 +2,9 @@
 toc_depth: 3
 ---
 # AI for Grant Writing
+
+![logo](./banner.png)
+
 A curated list of resources for using AI to develop more competitive grant applications.
 
 

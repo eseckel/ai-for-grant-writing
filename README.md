@@ -1,4 +1,7 @@
 # AI for Grant Writing
+
+![logo](./banner.png)
+
 A curated list of resources for using AI to develop more competitive grant applications.
 
 - [AI For Grant Writing](#ai-for-grant-writing)

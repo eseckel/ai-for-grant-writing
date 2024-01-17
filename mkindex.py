@@ -2,8 +2,10 @@
 """
 
 import argparse
+import os
 import pathlib
 import re
+import shutil
 import sys
 import urllib.request
 
@@ -30,6 +32,9 @@ def validate_single_url(url):
         raise Exception(f"Failed to parse URL: {url}")
     else:
         if not r.scheme or not r.netloc:
+            # is it a path?
+            if os.path.exists(url):
+                return
             raise Exception(f"URL appears to be mal-formatted: {url}")
 
     # Now do a quick check to see if the page actually exists
@@ -118,4 +123,7 @@ if __name__ == "__main__":
         # Output index.md file
         for ln in filter_gh_toc(lines):
             print(ln, file=handle, end="")
+
+    # Copy banner.png
+    shutil.copyfile("banner.png", INDEX_MD_PATH.parent / "banner.png")
 
