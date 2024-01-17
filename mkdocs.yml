@@ -1,0 +1,26 @@
+site_name: AI for Grant Writing
+site_url: https://awesome-python.com
+site_description: A curated list of resources for using AI to develop more competitive grant applications.
+site_author: Elizabeth Seckel
+repo_name: eseckel/ai-for-grant-writing
+repo_url: https://github.com/eseckel/ai-for-grant-writing
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: purple
+    accent: blue grey
+  features:
+    - toc.follow
+    - toc.integrate
+    - content.code.copy
+  markdown_extensions:
+    - tables
+  custom_dir: docs/overrides
+extra_css:
+ - stylesheets/extra.css
+plugins:
+  - exclude:
+      glob:
+        - "*.txt"
