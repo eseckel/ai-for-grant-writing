@@ -70,6 +70,9 @@ sentence to draw them in from the start?
 I want to improve the overall structure of my Specific Aims. What tips do you have to structure it
 more effectively?”
 ```
+```
+Can you recommend an effective way to organize my Significance section to highlight the innovative aspects of our approach?
+```
 #### To better align with the funding agency’s mission
 ```
 I’m working on a postdoctoral fellowship application. Can you please review my closing paragraph
