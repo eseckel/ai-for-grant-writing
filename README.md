@@ -68,27 +68,67 @@ sentence to draw them in from the start?
 #### To improve structure and flow of text
 ```
 I want to improve the overall structure of my Specific Aims. What tips do you have to structure it
-more effectively?”
+more effectively?
 ```
 ```
-Can you recommend an effective way to organize my Significance section to highlight the innovative aspects of our approach?
+Can you recommend an effective way to organize my Significance section to highlight the innovative 
+aspects of our approach?
+```
+```
+Please provide detailed feedback on the flow and sequence of my research strategy 
 ```
 #### To better align with the funding agency’s mission
 ```
 I’m working on a postdoctoral fellowship application. Can you please review my closing paragraph
 and suggest ways to better align it with the American Heart Association’s mission?
 ```
+```
+How can I better align my proposal to specifically address the <insert specific criteria> outlined in 
+this funding announcement for <insert name of funding opportunity>?
+```
+
 #### To better align text with review criteria
 ```
 I am applying to <insert fellowship name>. Please provide me feedback on how well I am
 addressing this review criteria: <insert specific review criteria>, and suggestions for what I am
 missing and how I can improve.
 ```
+#### To develop a strong grant title
+```
+Suggest five potential titles for a grant proposal that will attract readers while encompassing the 
+research question and key elements from the provided abstract <insert abstract summary>
+```
+#### To identify challenges of the proposed aims
+```
+Help identify potential challenges that may arise with my proposed aims and suggest strategies to 
+address them <insert specific aims> 
+```
+```
+What are some potential questions or concerns that <funding announcement name< reviewers may have 
+regarding my specific aims? <insert specific aims>
+```
+#### To develop a timeline for the grant proposal
+```
+Assist in developing a detailed project timeline and milestones for my grant proposal to demonstrate 
+feasibility using my project summary and specific aims <insert project summary>
+```
+```
+Please development a feasible project timeline for my grant proposal relating to my career development
+plan using this list of activities <insert activities> for <XX number of months> starting in <XX month>
+```
+
 
 ## Grant Writing-Specific Resources
 - [Best Kept Secrets to Winning Grants](https://www.nature.com/articles/545399a)
 - [The Anatomy of a Specific Aims Page](https://biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx)
 - [R01 Countdown: Tools for Writing Concise and Compelling Grants](https://purl.stanford.edu/yy394gb6954)
+- [On the Art of Writing Proposals](https://www.ssrc.org/publications/the-art-of-writing-proposals/)
+- [Grant Writing Basics](https://grantsgovprod.wordpress.com/category/learngrants/grant-writing-basics/)
+- [Tips for Planning Your Proposal](https://grantwriting.stanford.edu/students/tips-for-planning-your-proposal/)
+- [NIH Grant Writing Tip Sheets](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/write-your-application.htm)
+- [National Science Foundation’s Guide for Proposal Writing](https://www.nsf.gov/pubs/2004/nsf04016/nsf04016_5.htm) 
+- [Grant Proposals (or Give Me The Money!)](https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/)
+- [To Grant You An Edge: General Strategies For Writing Competitive Biomedical Research Proposals](https://journals.physiology.org/doi/epdf/10.1152/japplphysiol.00077.2022)
 
 # Contributing
 
