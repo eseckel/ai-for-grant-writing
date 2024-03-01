@@ -1,0 +1,8 @@
+/* Hide redundant titles */
+.md-typeset h1,
+label.md-nav__title {
+    display: none;
+}
+
+/* Style logo */
+img[alt=logo] { max-width: 800px; }
