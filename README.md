@@ -112,7 +112,7 @@ Assist in developing a detailed project timeline and milestones for my grant pro
 feasibility using my project summary and specific aims <insert project summary>
 ```
 ```
-Please development a feasible project timeline for my grant proposal relating to my career development
+Please develop a feasible project timeline for my grant proposal relating to my career development
 plan using this list of activities <insert activities> for <XX number of months> starting in <XX month>
 ```
 
