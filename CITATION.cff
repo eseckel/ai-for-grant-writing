@@ -1,0 +1,44 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Ten simple rules to leverage large language models for
+  getting grants
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Seckel
+    given-names: Elizabeth
+    email: eseckel@stanford.edu
+    affiliation: >-
+      Division of Cardiovascular Medicine, Stanford
+      University School of Medicine, Stanford, California,
+      United States of America
+    orcid: 'https://orcid.org/0000-0001-5910-649X'
+  - family-names: Stephens
+    given-names: Brandi Y.
+    affiliation: >-
+      Division of Cardiovascular Medicine, Stanford
+      University School of Medicine, Stanford, California,
+      United States of America 
+  - family-names: Rodriguez
+    given-names: Fatima
+    affiliation: >-
+      Division of Cardiovascular Medicine, Stanford
+      University School of Medicine, Stanford, California,
+      United States of America 
+identifiers:
+  - type: doi
+    value: 10.1371/journal.pcbi.1011863
+repository-code: 'https://github.com/eseckel/ai-for-grant-writing'
+url: 'https://eseckel.github.io/ai-for-grant-writing/'
+keywords:
+  - Grants
+  - Scientific Writing
+  - Grant Proposals
+  - LLMs
+  - Generative AI
+license: CC-BY-4.0
