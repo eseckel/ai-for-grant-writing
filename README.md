@@ -118,6 +118,7 @@ plan using this list of activities <insert activities> for <XX number of months>
 
 
 ## Grant Writing-Specific Resources
+- [Ten simple rules to leverage large language models for getting grants](https://dx.plos.org/10.1371/journal.pcbi.1011863)
 - [Best Kept Secrets to Winning Grants](https://www.nature.com/articles/545399a)
 - [The Anatomy of a Specific Aims Page](https://biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx)
 - [R01 Countdown: Tools for Writing Concise and Compelling Grants](https://purl.stanford.edu/yy394gb6954)
