@@ -29,6 +29,7 @@ A curated list of resources for using AI to develop more competitive grant appli
 | [DeepL](https://www.deepl.com/translator)               |  |   | x |   |   | x |
 | [Midjourney](https://www.midjourney.com)                |  |   |   |   | x |   |
 | [Firefly](https://www.adobe.com/products/firefly.html)  |  |   |   |   | x | x |
+| [Proposia](https://proposia.ai)                         |   | x |   | x |   | x |
 
 ## Prompt Resources
 
