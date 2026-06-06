@@ -20,7 +20,7 @@ A curated list of resources for using AI to develop more competitive grant appli
 | | Checks Spelling and Grammar | Text Generation | Translation | Mock Review | Image Generation | Free Tier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | [ChatGPT](https://chat.openai.com)                      | x | x | x | x | x | x |
-| [Bard](https://bard.google.com/)                        | x | x | x | x |   | x |
+| [Gemini](https://gemini.google.com/)                        | x | x | x | x |   | x |
 | [Grok](https://grok.x.ai/)                              | x | x | x | x |   |   |
 | [Copilot](https://copilot.microsoft.com/)               | x | x | x | x | x | x |
 | [Grammarly](https://www.grammarly.com/)                 | x | x |   | x |   | x |
