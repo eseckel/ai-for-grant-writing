@@ -35,6 +35,7 @@ A curated list of resources for using AI to develop more competitive grant appli
 
 ### Prompt Collections
 - [ChatGPT Prompts For Academic Research Writing](https://clickup.com/templates/ai-prompts/research-writing)
+- [Guide to Using AI in Grant Writing](https://www.zycko.com/learn/ai-grant-writing-guide)
 
 ### Prompt Engineering
 - [Google's Tips to enhance your prompt-engineering abilities](https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering)
