@@ -24,6 +24,7 @@ A curated list of resources for using AI to develop more competitive grant appli
 | [Grok](https://grok.x.ai/)                              | x | x | x | x |   |   |
 | [Copilot](https://copilot.microsoft.com/)               | x | x | x | x | x | x |
 | [Grammarly](https://www.grammarly.com/)                 | x | x |   | x |   | x |
+| [Grantable](https://www.grantable.co/)                  | x | x | x | x |   | x |
 | [Curie](https://www.aje.com/curie/)                     | x |   | x |   |   |   |
 | [DeepL](https://www.deepl.com/translator)               |  |   | x |   |   | x |
 | [Midjourney](https://www.midjourney.com)                |  |   |   |   | x |   |
