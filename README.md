@@ -27,6 +27,7 @@ A curated list of resources for using AI to develop more competitive grant appli
 | [Grantable](https://www.grantable.co/)                  | x | x | x | x |   | x |
 | [Curie](https://www.aje.com/curie/)                     | x |   | x |   |   |   |
 | [DeepL](https://www.deepl.com/translator)               |  |   | x |   |   | x |
+| [HumanPen](https://humanpen.net/)                       |   |   | x |   |   | x |
 | [Midjourney](https://www.midjourney.com)                |  |   |   |   | x |   |
 | [Firefly](https://www.adobe.com/products/firefly.html)  |  |   |   |   | x | x |
 | [Proposia](https://proposia.ai)                         |   | x |   | x |   | x |
